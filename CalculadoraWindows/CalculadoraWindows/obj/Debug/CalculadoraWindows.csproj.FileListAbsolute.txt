@@ -1,0 +1,20 @@
+C:\Users\Tads-Shopia M\source\repos\CalculadoraWindows\obj\Debug\CalculadoraWindows.csproj.AssemblyReference.cache
+C:\Users\Tads-Shopia M\source\repos\CalculadoraWindows\obj\Debug\CalculadoraWindows.Form1.resources
+C:\Users\Tads-Shopia M\source\repos\CalculadoraWindows\obj\Debug\CalculadoraWindows.Properties.Resources.resources
+C:\Users\Tads-Shopia M\source\repos\CalculadoraWindows\obj\Debug\CalculadoraWindows.csproj.GenerateResource.cache
+C:\Users\Tads-Shopia M\source\repos\CalculadoraWindows\obj\Debug\CalculadoraWindows.csproj.CoreCompileInputs.cache
+C:\Users\Tads-Shopia M\source\repos\CalculadoraWindows\bin\Debug\CalculadoraWindows.exe.config
+C:\Users\Tads-Shopia M\source\repos\CalculadoraWindows\bin\Debug\CalculadoraWindows.exe
+C:\Users\Tads-Shopia M\source\repos\CalculadoraWindows\bin\Debug\CalculadoraWindows.pdb
+C:\Users\Tads-Shopia M\source\repos\CalculadoraWindows\obj\Debug\CalculadoraWindows.exe
+C:\Users\Tads-Shopia M\source\repos\CalculadoraWindows\obj\Debug\CalculadoraWindows.pdb
+C:\Users\Otavio\Downloads\CalculadoraWindows\CalculadoraWindows\bin\Debug\CalculadoraWindows.exe.config
+C:\Users\Otavio\Downloads\CalculadoraWindows\CalculadoraWindows\bin\Debug\CalculadoraWindows.exe
+C:\Users\Otavio\Downloads\CalculadoraWindows\CalculadoraWindows\bin\Debug\CalculadoraWindows.pdb
+C:\Users\Otavio\Downloads\CalculadoraWindows\CalculadoraWindows\obj\Debug\CalculadoraWindows.csproj.AssemblyReference.cache
+C:\Users\Otavio\Downloads\CalculadoraWindows\CalculadoraWindows\obj\Debug\CalculadoraWindows.Form1.resources
+C:\Users\Otavio\Downloads\CalculadoraWindows\CalculadoraWindows\obj\Debug\CalculadoraWindows.Properties.Resources.resources
+C:\Users\Otavio\Downloads\CalculadoraWindows\CalculadoraWindows\obj\Debug\CalculadoraWindows.csproj.GenerateResource.cache
+C:\Users\Otavio\Downloads\CalculadoraWindows\CalculadoraWindows\obj\Debug\CalculadoraWindows.csproj.CoreCompileInputs.cache
+C:\Users\Otavio\Downloads\CalculadoraWindows\CalculadoraWindows\obj\Debug\CalculadoraWindows.exe
+C:\Users\Otavio\Downloads\CalculadoraWindows\CalculadoraWindows\obj\Debug\CalculadoraWindows.pdb
